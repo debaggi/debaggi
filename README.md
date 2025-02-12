@@ -69,4 +69,5 @@ Faculty: Electronics and Computer Engeneering
 Specialisation: Biotechnical Systems and Technologies
 The Average diploma score:** 4.6
 
-
+#### My coordinates
+resume: https://career.habr.com/kali_li
