@@ -98,3 +98,4 @@ The Average diploma score: 4.6
 
 ### Мои координаты
 📍[Резюме на Хабр Карьере](https://career.habr.com/kali_li)
+📍[Мои сертификаты на Stepik](https://stepik.org/users/509054330/certificates)
