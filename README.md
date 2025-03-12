@@ -127,5 +127,3 @@ Faculty: Electronics and Computer Engeneering
 Specialisation: Biotechnical Systems and Technologies
 The Average diploma score: 4.6
 
-📃 [Мои сертификаты на Stepik](https://stepik.org/users/509054330/certificates)
-
