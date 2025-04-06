@@ -138,6 +138,7 @@ UML, BPMN, User Story, User Case, RESTful API, Swagger, Проектирован
 ## 🎓 Образование
 
 + **Self-education** in Data Analysis and Machine Learning, from January 2024
++ **Pre-accelerator Internet Iniciative Development Fund**, 2018, 2019
 + **National Research University of Electronic Technology**, Bachelor's degree, 2019, 
 Faculty: Electronics and Computer Engeneering
 Specialisation: Biotechnical Systems and Technologies
