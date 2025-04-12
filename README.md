@@ -7,7 +7,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)</br>
 ![Google Spreedsheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)
 ![CURL](https://img.shields.io/badge/curl-073551.svg?style=for-the-badge&logo=curl&logoColor=white)</br>
 
 
