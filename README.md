@@ -26,7 +26,7 @@
 + Habr Career: [Резюме на Хабр Карьере](https://career.habr.com/kali_li)
 + LinkedIn: [Резюме на LinkedIn](https://www.linkedin.com/in/kalili/)
 + Github: [https://github.com/debaggi](https://github.com/debaggi)
-+ Сертификаты на Stepik: [Ka Li](https://stepik.org/users/509054330/certificates)
++ Сертификаты на Stepik: [Code Walker](https://stepik.org/users/509054330/certificates)
 
 
 ## ✨ Приоритеты
