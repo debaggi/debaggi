@@ -22,11 +22,10 @@
 
 
 ### 📍 Координаты для контакта
-+ Email: embra.ark@gmail.com
-+ Habr Career: [Резюме на Хабр Карьере](https://career.habr.com/kali_li)
-+ LinkedIn: [Резюме на LinkedIn](https://www.linkedin.com/in/kalili/)
-+ Github: [https://github.com/debaggi](https://github.com/debaggi)
-+ Сертификаты на Stepik: [Code Walker](https://stepik.org/users/509054330/certificates)
++ [Github: debaggi](https://github.com/debaggi)
++ [Habr Career](https://career.habr.com/kali_li)
++ [LinkedIn](https://www.linkedin.com/in/kalili/)
++ [Stepik profile](https://stepik.org/users/509054330/certificates)
 
 
 ## ✨ Приоритеты
@@ -45,6 +44,7 @@
 + **Web-аналитика:** Яндекс.Метрика, Google Analytics
 + **Визуализация данных:** Seaborn, Matplotlib, Tableau
 + **Работа с языками программирования:** Python, Ruby, Go, Java
++ **Технология блокчейн**
 
 ## 🤝 Коммуникативные навыки и работа в команде
 
