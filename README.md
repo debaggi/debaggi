@@ -28,6 +28,7 @@
 
 + **Blockchain Tech**: understanding of blockchain architecture, transaction data structures, smart contracts read, 
 
+## 🧰 Stack
 
 ## 🪂 Experience
 
