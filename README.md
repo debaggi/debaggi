@@ -10,7 +10,7 @@
 
 
 ### 📍 Contact details
-+ [Habr Career](https://career.habr.com/kali_li)
+
 
 
 ## ✨ Areas of professional interest
